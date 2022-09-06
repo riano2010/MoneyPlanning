@@ -3,3 +3,5 @@
 ################################################################################
 
 /MoneyPlanning.Api/obj
+/.vs
+/MoneyPlanning.Api/bin/Debug/net6.0
