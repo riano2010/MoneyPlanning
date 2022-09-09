@@ -5,3 +5,9 @@
 /MoneyPlanning.Api/obj
 /.vs
 /MoneyPlanning.Api/bin/Debug/net6.0
+/MoneyPlanning.DomainLogic/bin/Debug/net6.0
+/MoneyPlanning.DomainLogic/obj
+/MoneyPlanning.Models/bin/Debug/net6.0
+/MoneyPlanning.Models/obj
+/MoneyPlanning.Tests/bin/Debug/net6.0
+/MoneyPlanning.Tests/obj
